@@ -5,3 +5,4 @@ ubuntu with useful commands
 
 * curl
 * wget
+* ca-certificates
