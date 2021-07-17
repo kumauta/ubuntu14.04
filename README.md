@@ -7,3 +7,4 @@ ubuntu with useful commands
 * wget
 * ca-certificates
 * uuid-runtime
+* jq
