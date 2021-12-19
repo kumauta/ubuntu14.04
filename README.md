@@ -8,3 +8,4 @@ ubuntu with useful commands
 * ca-certificates
 * uuid-runtime
 * jq
+* nkf
